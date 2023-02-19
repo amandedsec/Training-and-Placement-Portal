@@ -32,7 +32,7 @@ ii> git clone https://github.com/amandedsec/Training-and-Placement-Portal
 
 9. Browse the file in directory [placement-portal/database/db1.sql].
 
-10. Open any browser and type http://localhost/placement-portal.
+10. Open any browser and type http://localhost/Placement-Portal-main/Placement-Portal-main/index.php
 
 
 
